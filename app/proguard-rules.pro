@@ -25,7 +25,7 @@
 -dontwarn com.iwebpp.nodeandroid.**
 -dontwarn org.msgpack.core.**
 -dontwarn com.pushtorefresh.storio.**
--dontwarn java.lang.invoke.*
+-dontwarn java.lang.invoke.*org.apache.commonsorg.apache.commonsorg.apache.commons
 -dontwarn **$$Lambda$*
 
 -keep class org.mozilla.javascript.** { *; }
